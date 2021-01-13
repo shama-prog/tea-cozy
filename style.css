@@ -162,7 +162,7 @@ footer .footer-sec{
   justify-content: space-around;
   align-items: center;
   flex-direction: column;
-  border: 1px solid red; 
+ 
 }
 .footer-sec h4{
   color: seashell;
